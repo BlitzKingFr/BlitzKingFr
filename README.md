@@ -45,4 +45,4 @@
 
 
 ###
-![recentlyplayed](https://spotify-recently-played-readme.vercel.app/api?user=u854zusc2pww6rr9jvczlmpat)
+
